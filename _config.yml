@@ -32,7 +32,7 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: 孔昊                  # it will shows as the copyright owner in Footer
+  name: konghao                  # it will shows as the copyright owner in Footer
   email: konghao078@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
