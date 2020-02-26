@@ -23,7 +23,8 @@ url: 'https://NeoKH.github.io'
 
 author: 孔昊                  # change to your full name
 
-avatar: /assets/img/index/KH.jpg   # support internet resources
+# avatar: /assets/img/index/KH.jpg   # support internet resources
+avatar: http://ww1.sinaimg.cn/large/006yF9NUly1gca4kuic2pj32my2myn1q.jpg
 
 github:
   username: NeoKH             # change to your github username
